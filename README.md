@@ -1,0 +1,1 @@
+# TD-Apprentissage-de-representations-d-images-multimodales-texte-image-via-CLIP
