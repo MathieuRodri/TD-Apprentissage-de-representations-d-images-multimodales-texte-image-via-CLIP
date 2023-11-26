@@ -1,7 +1,7 @@
 # TD-Apprentissage-de-representations-d-images-multimodales-texte-image-via-CLIP
 
 Travaille dans le cadre d'un TP noté à partir d'un notebook source:
-[https://github.com/rll/deepul/blob/master/demos/lecture7_selfsupervised_demos.ipynb](https://github.com/ckurtz/teaching_UPC_UFRMI/blob/main/CLIP_tutorial_(with_medical_images_ROCO).ipynb)
+[https://github.com/ckurtz/teaching_UPC_UFRMI/blob/main/CLIP_tutorial_(with_medical_images_ROCO).ipynb)](https://github.com/ckurtz/teaching_UPC_UFRMI/blob/main/CLIP_tutorial_(with_medical_images_ROCO).ipynb)
 
 Consignes :
 1. Commencer par vous familiariser avec le code source proposé puis exécuter
