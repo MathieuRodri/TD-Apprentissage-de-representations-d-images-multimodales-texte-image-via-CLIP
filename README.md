@@ -1,4 +1,4 @@
-# TD-Apprentissage-de-representations-d-images-multimodales-texte-image-via-CLIP
+# TD: Apprentissage de representations d'images multimodales texte image via CLIP
 
 Travaille dans le cadre d'un TP noté à partir d'un notebook source:
 [https://github.com/ckurtz/teaching_UPC_UFRMI/blob/main/CLIP_tutorial_(with_medical_images_ROCO).ipynb](https://github.com/ckurtz/teaching_UPC_UFRMI/blob/main/CLIP_tutorial_(with_medical_images_ROCO).ipynb)
@@ -13,10 +13,10 @@ du jeu de données
 4. Calculer les performances de CLIP sur une tâche de classification d’images
 naturelles, sur un autre jeu de données que CIFAR100
 
-![](https://github.com/MathieuRodri/TD-Apprentissage-de-representations-d-images-multimodales-texte-image-via-CLIP/blob/main/before.png)
-![](https://github.com/MathieuRodri/TD-Apprentissage-de-representations-d-images-multimodales-texte-image-via-CLIP/blob/main/after.png)
-![](https://github.com/MathieuRodri/TD-Apprentissage-de-representations-d-images-multimodales-texte-image-via-CLIP/blob/main/models_comparaison_2.png)
-![](https://github.com/MathieuRodri/TD-Apprentissage-de-representations-d-images-multimodales-texte-image-via-CLIP/blob/main/models_comparaison.png)
-![](https://github.com/MathieuRodri/TD-Apprentissage-de-representations-d-images-multimodales-texte-image-via-CLIP/blob/main/dataset_comparaison.png)
+![Avant finetuning sur ROCO](https://github.com/MathieuRodri/TD-Apprentissage-de-representations-d-images-multimodales-texte-image-via-CLIP/blob/main/before.png)
+![Après finetuning sur ROCO](https://github.com/MathieuRodri/TD-Apprentissage-de-representations-d-images-multimodales-texte-image-via-CLIP/blob/main/after.png)
+![Résultats des différents modèles](https://github.com/MathieuRodri/TD-Apprentissage-de-representations-d-images-multimodales-texte-image-via-CLIP/blob/main/models_comparaison_2.png)
+![Résultats des différents modèles](https://github.com/MathieuRodri/TD-Apprentissage-de-representations-d-images-multimodales-texte-image-via-CLIP/blob/main/models_comparaison.png)
+![Résultats sur 2 jeu de données différents (CIFAR100 et Caltech101)](https://github.com/MathieuRodri/TD-Apprentissage-de-representations-d-images-multimodales-texte-image-via-CLIP/blob/main/dataset_comparaison.png)
 
 ### RODRIGUES Mathieu
