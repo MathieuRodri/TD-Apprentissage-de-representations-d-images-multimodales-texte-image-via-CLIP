@@ -13,9 +13,9 @@ du jeu de données
 4. Calculer les performances de CLIP sur une tâche de classification d’images
 naturelles, sur un autre jeu de données que CIFAR100
 
-[![Comparaison des scores en fonction des données-CIFAR10](https://github.com/MathieuRodri/TD5-self-supervised-learning/blob/main/01.png)
-[![Comparaison des scores en fonction des données-IMAGENET10](https://github.com/MathieuRodri/TD5-self-supervised-learning/blob/main/02.png)
-[![Comparaison des scores en fonction des jeux de données](https://github.com/MathieuRodri/TD5-self-supervised-learning/blob/main/03.png)
-[![Comparaison des scores  de la méthode implémenté ”PatchPosition”](https://github.com/MathieuRodri/TD5-self-supervised-learning/blob/main/04.png)
+![Comparaison des scores en fonction des données-CIFAR10](https://github.com/MathieuRodri/TD5-self-supervised-learning/blob/main/01.png)
+![Comparaison des scores en fonction des données-IMAGENET10](https://github.com/MathieuRodri/TD5-self-supervised-learning/blob/main/02.png)
+![Comparaison des scores en fonction des jeux de données](https://github.com/MathieuRodri/TD5-self-supervised-learning/blob/main/03.png)
+![Comparaison des scores  de la méthode implémenté ”PatchPosition”](https://github.com/MathieuRodri/TD5-self-supervised-learning/blob/main/04.png)
 
 ### RODRIGUES Mathieu
